@@ -1,0 +1,9 @@
+
+app = "snappytextbot"
+primary_region = "fra"
+
+[env]
+PYTHONUNBUFFERED = "1"
+
+[experimental]
+auto_rollback = true
